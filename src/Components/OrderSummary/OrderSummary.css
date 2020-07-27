@@ -1,0 +1,19 @@
+.set-bg {
+	/* min-height: 800px; */
+	background-color:green;
+}
+/* .adjust{
+	margin-top: 100px;
+} */
+.fontColor{
+	color: #1c1c1c;
+}
+.left{
+	float: left;
+	width: 50%;
+}
+.right{
+	float: right;
+	width: 50%;
+
+}

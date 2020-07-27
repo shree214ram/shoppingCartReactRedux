@@ -1,0 +1,10 @@
+.set-bg {
+	min-height: 800px;
+	background-image:url("http://localhost:3000/bg-img.jpg");
+}
+.adjust{
+	margin-top: 100px;
+}
+.fontColor{
+	color: #1c1c1c;
+}
